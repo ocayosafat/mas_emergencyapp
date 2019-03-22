@@ -1,5 +1,5 @@
 # mas_emergencyapp
-An emergency app
+MAS emergency app
 ## Getting Started
 Install Ionic
 ```
